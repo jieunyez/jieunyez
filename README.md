@@ -25,3 +25,5 @@
 - ⚡ Fun fact: :poultry_leg: meat meat meat lover
 
 
+[![website](https://img.shields.io/badge/PortfolioWebsite-jieunyez.github.io-2648ff?style=flat-square&logo=google-chrome)](https://jieunyez.github.io/)
+
