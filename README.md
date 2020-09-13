@@ -20,8 +20,7 @@
 <br/>
 
 - 🔭 I’m currently a cs meng at Cornell
-- 🌱 I’m currently self learning Flutter & Golang & Blockchain
-- 😄 Pronouns: She/Her
+- 🌱 Still learning
 - ⚡ Not Fun fact: :poultry_leg: meat meat meat lover
 
 
