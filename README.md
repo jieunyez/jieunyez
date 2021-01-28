@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently a CS M.Eng @ Cornell, previously Math-Stats track & CS B.S. @ UMD
+- 🔭 I’m currently a CS M.Eng @ Cornell, previously Math-Stats Track & CS B.S. @ UMD
 - 🌱 Still learning (previously Data Science & ML || currently exploring --》Frontend Dev (App + Web) & ...)  
 - ⚡ Not Fun fact: :poultry_leg: meat meat meat lover
 
