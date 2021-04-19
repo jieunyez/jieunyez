@@ -1,4 +1,4 @@
-### Hi there I'm Josie 👋
+### Howdy, I'm Josie 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jieunyez&label=Views&color=blue&style=plastic" alt="jieunyez" /> </p>
 
